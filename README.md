@@ -51,7 +51,7 @@ I'm a passionate web & app developer who loves crafting elegant solutions to com
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nayandas69&show_icons=true&theme=radical" alt="Nayan's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitnayandas&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayandas69&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ## 📫 Let's Connect
