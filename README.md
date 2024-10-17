@@ -29,40 +29,6 @@
 
 ---
 
-<!-- Highlighted Projects Section -->
-### 🚧 Featured Projects:
-<p align="center">
-  <a href="https://github.com/nayandas69">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nayandas69&repo=Project1&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/nayandas69">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nayandas69&repo=Project2&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/nayandas69">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nayandas69&repo=Project3&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/nayandas69">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nayandas69&repo=Project4&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
----
-
-<!-- GitHub Stats Section -->
-### 📊 GitHub Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayandas69&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Nayan's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayandas69&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayandas69&theme=github_dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 <!-- Contact and Social Links -->
 ### 📫 Let's Connect:
 <p align="center">
