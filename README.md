@@ -33,7 +33,7 @@
 
 <!-- Stats Section -->
 ## ⌛ My Stats:
-![Profile Views](https://komarev.com/ghpvc/?username=nayandas69)  ![GitHub Active Badge](https://img.shields.io/badge/GitHub-Active%20%F0%9F%94%A5-181717?style=flat-square&logo=github&logoColor=white)  [![WakaTime Badge](https://wakatime.com/badge/user/69aa793e-d003-4e9d-8935-5a751249bb3c.svg)](https://wakatime.com/@69aa793e-d003-4e9d-8935-5a751249bb3c)   [![GitHub followers](https://img.shields.io/github/followers/nayandas69?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/nayandas69)
+![Profile Views](https://komarev.com/ghpvc/?username=nayandas69)  ![GitHub Active Badge](https://img.shields.io/badge/GitHub-Active%20%F0%9F%94%A5-181717?style=flat-square&logo=github&logoColor=white) [![GitHub followers](https://img.shields.io/github/followers/nayandas69?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/nayandas69)
 
 ---
 
