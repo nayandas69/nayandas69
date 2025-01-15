@@ -25,6 +25,16 @@
 
 ---
 
+<!-- Repositories Section -->
+## 🌟 Repositories:
+<p align="left">
+  <a href="https://github.com/nayandas69/Social-Media-Downloader"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nayandas69&repo=Social-Media-Downloader&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Social-Media-Downloader"></a>
+  <a href="https://github.com/nayandas69/auto-website-visitor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nayandas69&repo=auto-website-visitor&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="auto-website-visitor"></a>
+  <a href="https://github.com/nayandas69/NetShield-Blocker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nayandas69&repo=NetShield-Blocker&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="NetShield-Blocker"></a>
+</p>
+
+---
+
 <!-- GitHub Achievements -->
 ## 🏆 GitHub Achievements:
 <img src="https://github-profile-trophy.vercel.app/?username=nayandas69&theme=juicyfresh&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Achievements" />
