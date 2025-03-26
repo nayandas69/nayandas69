@@ -2,8 +2,9 @@
 # Heyoo! I'm Nayan Das <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 I’m a **coder** who works behind the scenes, making things run smoothly while the spotlight stays on the product.
 
+<!--
 <img src="https://avatars.githubusercontent.com/u/174907517?v=4" alt="Subscribe on YouTube" width="150" height="150">
-
+-->
 
 
 ## What I Do:
