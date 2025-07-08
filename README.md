@@ -7,7 +7,7 @@
 </p>
 
 ## What I Do:
-- I'm working with my team on our clinet's project.
+- I'm working with my team on our client's project.
 - I love to **code**, **error** and **learn** new things.
 - I hate **bugs** and **lies**.
 - Most of the time I am **working** on **backend**.
