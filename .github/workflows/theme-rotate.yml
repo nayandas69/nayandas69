@@ -1,0 +1,28 @@
+# Aaaaah idk why i wrote this shit
+
+name: Rotate Profile Theme
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # Every Sunday
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout using PAT
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          fetch-depth: 0
+
+      - name: Make script executable
+        run: chmod +x scripts/rotate-theme.sh
+
+      - name: Run rotation
+        run: ./scripts/rotate-theme.sh
