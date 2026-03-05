@@ -4,7 +4,7 @@ name: Rotate Profile Theme
 
 on:
   schedule:
-    - cron: "0 0 * * 0"   # Every Sunday
+    - cron: "0 0 * * *"   # Every day at 00:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -25,4 +25,5 @@ jobs:
         run: chmod +x scripts/rotate-theme.sh
 
       - name: Run rotation
+
         run: ./scripts/rotate-theme.sh
