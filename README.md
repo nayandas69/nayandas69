@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-profile-card-blue.vercel.app/card/nayandas69?theme=grayscale_light" />
+  <img src="https://github-profile-card-blue.vercel.app/card/nayandas69?theme=grayscale_mid" />
 </p>
 
 <p align="center">
