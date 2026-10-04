@@ -22,3 +22,6 @@
   </samp>
 </p>
 
+<p align="center">
+  <img src="https://profile-pulse-gold.vercel.app/api/badge?username=nayandas69" />
+</p>
