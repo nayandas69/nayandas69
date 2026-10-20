@@ -1,29 +1,41 @@
 # Aaaaah idk why i wrote this shit
 
+
 name: Rotate Profile Theme
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Every day at 00:00 UTC
+    - cron: "0 0 * * *"
+
   workflow_dispatch:
 
+# Give the workflow only the permission it needs.
 permissions:
   contents: write
 
+# Prevent overlapping runs.
+concurrency:
+  group: profile-theme-rotation
+  cancel-in-progress: false
+
 jobs:
   rotate:
+    name: Rotate profile theme
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Checkout using PAT
-        uses: actions/checkout@v6
+      - name: Checkout repository
+        uses: actions/checkout@v7.0.1
         with:
-          token: ${{ secrets.PAT_TOKEN }}
-          fetch-depth: 0
+          ref: main
+          fetch-depth: 1
 
-      - name: Make script executable
-        run: chmod +x scripts/rotate-theme.sh
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Run rotation
-
-        run: ./scripts/rotate-theme.sh
+      - name: Rotate theme
+        run: bash scripts/rotate-theme.sh
+        
