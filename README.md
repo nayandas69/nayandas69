@@ -15,7 +15,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://nayan-das-portfolio-navy.vercel.app">me</a> >
+    <a href="https://nayan-das-portfolio-nine.vercel.app">me</a> >
     <a href="https://blogverse-five-omega.vercel.app">blog</a> >
     <a href="https://bsky.app/profile/nayandas69.bsky.social">bluesky</a> >
     <a href="https://x.com/nayandas69">x</a>
