@@ -23,5 +23,5 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-pulse-gold.vercel.app/api/badge?username=nayandas69" />
+  <img src="https://github-profile-card-blue.vercel.app/profile/nayandas69?theme=tokyonight" />
 </p>
